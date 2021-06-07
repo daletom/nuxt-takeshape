@@ -1,0 +1,13 @@
+{
+    getArticleList {
+		          items {
+					  _id
+			          content
+			          title
+			          heroimage {
+		  		        path
+		            }
+		          }
+    	        }
+}
+        

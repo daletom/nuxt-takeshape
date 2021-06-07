@@ -1,0 +1,3 @@
+# nuxt-takeshape
+
+Working project...
